@@ -1,3 +1,3 @@
-# Welcome to EtoSpere!
+# Welcome to EthoSphere!
 
-EthoSpere is a blockchain tractions wallet app which facilitates Ether transactions securely with a friendly user interface.
+EthoSphere is a blockchain tractions wallet app which facilitates Ether transactions securely with a friendly user interface.
